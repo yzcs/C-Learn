@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CSharpLearn1
+namespace CSharp_Basic
 {
-    class 
+    class Class1
+
     {
     }
 }

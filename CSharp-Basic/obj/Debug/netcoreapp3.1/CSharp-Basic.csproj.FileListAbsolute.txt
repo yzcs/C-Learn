@@ -1,0 +1,13 @@
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\bin\Debug\netcoreapp3.1\CSharp-Basic.exe
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\bin\Debug\netcoreapp3.1\CSharp-Basic.deps.json
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\bin\Debug\netcoreapp3.1\CSharp-Basic.runtimeconfig.json
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\bin\Debug\netcoreapp3.1\CSharp-Basic.runtimeconfig.dev.json
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\bin\Debug\netcoreapp3.1\CSharp-Basic.dll
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\bin\Debug\netcoreapp3.1\CSharp-Basic.pdb
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\obj\Debug\netcoreapp3.1\CSharp-Basic.csprojAssemblyReference.cache
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\obj\Debug\netcoreapp3.1\CSharp-Basic.AssemblyInfoInputs.cache
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\obj\Debug\netcoreapp3.1\CSharp-Basic.AssemblyInfo.cs
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\obj\Debug\netcoreapp3.1\CSharp-Basic.csproj.CoreCompileInputs.cache
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\obj\Debug\netcoreapp3.1\CSharp-Basic.dll
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\obj\Debug\netcoreapp3.1\CSharp-Basic.pdb
+C:\Users\mxz09\Source\Repos\C-Learn\CSharp-Basic\obj\Debug\netcoreapp3.1\CSharp-Basic.genruntimeconfig.cache

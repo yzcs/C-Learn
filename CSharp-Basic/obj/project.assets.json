@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mxz09\\Source\\Repos\\C-Learn\\CSharpLearn1\\Classes.csproj",
-      "projectName": "Classes",
-      "projectPath": "C:\\Users\\mxz09\\Source\\Repos\\C-Learn\\CSharpLearn1\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\mxz09\\Source\\Repos\\C-Learn\\CSharp-Basic\\CSharp-Basic.csproj",
+      "projectName": "CSharp-Basic",
+      "projectPath": "C:\\Users\\mxz09\\Source\\Repos\\C-Learn\\CSharp-Basic\\CSharp-Basic.csproj",
       "packagesPath": "C:\\Users\\mxz09\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mxz09\\Source\\Repos\\C-Learn\\CSharpLearn1\\obj\\",
+      "outputPath": "C:\\Users\\mxz09\\Source\\Repos\\C-Learn\\CSharp-Basic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mxz09\\AppData\\Roaming\\NuGet\\NuGet.Config",
