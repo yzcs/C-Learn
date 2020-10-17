@@ -1,0 +1,13 @@
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\bin\Debug\netcoreapp3.1\CSharpLearn1.exe
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\bin\Debug\netcoreapp3.1\CSharpLearn1.deps.json
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\bin\Debug\netcoreapp3.1\CSharpLearn1.runtimeconfig.json
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\bin\Debug\netcoreapp3.1\CSharpLearn1.runtimeconfig.dev.json
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\bin\Debug\netcoreapp3.1\CSharpLearn1.dll
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\bin\Debug\netcoreapp3.1\CSharpLearn1.pdb
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\obj\Debug\netcoreapp3.1\CSharpLearn1.csprojAssemblyReference.cache
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\obj\Debug\netcoreapp3.1\CSharpLearn1.AssemblyInfoInputs.cache
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\obj\Debug\netcoreapp3.1\CSharpLearn1.AssemblyInfo.cs
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\obj\Debug\netcoreapp3.1\CSharpLearn1.csproj.CoreCompileInputs.cache
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\obj\Debug\netcoreapp3.1\CSharpLearn1.dll
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\obj\Debug\netcoreapp3.1\CSharpLearn1.pdb
+C:\Users\mxz09\C#Projects\CSharpLearn\CSharpLearn1\obj\Debug\netcoreapp3.1\CSharpLearn1.genruntimeconfig.cache
